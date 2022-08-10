@@ -1,0 +1,15 @@
+
+[1mFrom:[0m /home/nick/Development/code/phase-3/phase-3-enumerables-lab/enumerables.rb:20 :
+
+    [1;34m15[0m:   [1;34m# your code here[0m
+    [1;34m16[0m:   food_names = spicy_foods.map [32mdo[0m |food|
+    [1;34m17[0m:     food[[33m:name[0m]
+    [1;34m18[0m:   [32mend[0m
+    [1;34m19[0m: [32mend[0m
+ => [1;34m20[0m: binding.pry
+    [1;34m21[0m: [1;34m# get_names(spicy_foods)[0m
+    [1;34m22[0m: 
+    [1;34m23[0m: [1;34m# given an array of spicy foods, **return an array of hashes** [0m
+    [1;34m24[0m: [1;34m# where the heat level of the food is greater than 5[0m
+    [1;34m25[0m: [32mdef[0m [1;34mspiciest_foods[0m(spicy_foods)
+
